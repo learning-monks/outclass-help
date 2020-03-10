@@ -1,4 +1,6 @@
 # Table of contents
 
-* [FAQ](README.md)
+* [Help](README.md)
+* [Community](community.md)
+* [FAQ](faq.md)
 
